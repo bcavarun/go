@@ -29,7 +29,7 @@ func main()  {
     code
     for <expr> {
       code
-      for <expr>{
+      for <expre>{
         code
         break breakPoint
       }
