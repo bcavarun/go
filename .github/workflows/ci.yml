@@ -21,4 +21,4 @@ jobs:
       run: git tag release-1.0.0
 
     - name: Push tag
-      run: git push
+      run: git push --tags
